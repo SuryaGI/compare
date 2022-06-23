@@ -1,4 +1,8 @@
-my name is sipun samal
+why my name is sipun samal
 add few more 
 am here to merge  few lines12376
+<<<<<<< HEAD
 egg ear t
+=======
+why you want to be DEVOPS
+>>>>>>> modify
